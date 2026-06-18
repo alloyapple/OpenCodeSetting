@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="build/appicon.svg" width="120" height="120" alt="OpenCode Config">
+<img src="appicon.svg" width="120" height="120" alt="OpenCode Config">
 
 # OpenCode Config
 
