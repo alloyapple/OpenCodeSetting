@@ -1,0 +1,2 @@
+# OpenCodeSetting
+OpenCode Setting
