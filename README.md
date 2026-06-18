@@ -6,6 +6,12 @@
 
 ### OpenCode 全局配置管理器
 
+<p>
+
+<img src="screenshots/main.png" width="700" alt="截图">
+
+</p>
+
 </div>
 
 ## 为什么需要 OpenCode Config？
