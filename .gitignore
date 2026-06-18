@@ -1,3 +1,6 @@
-build/bin
-node_modules
-frontend/dist
+build/bin/
+build/appicon.png
+build/windows/icon.ico
+frontend/dist/
+frontend/package.json.md5
+node_modules/
